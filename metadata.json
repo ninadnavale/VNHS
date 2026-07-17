@@ -1,0 +1,6 @@
+{
+  "name": "Attendify",
+  "description": "Daily school/college attendance tracking with monthly PDF report generation (A2 format) and roll/absentee/average calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

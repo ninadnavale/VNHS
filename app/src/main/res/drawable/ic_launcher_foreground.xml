@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Clipboard/Register Paper -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,24h44c3.31,0 6,2.69 6,6v52c0,3.31 -2.69,6 -6,6h-44c-3.31,0 -6,-2.69 -6,-6v-52c0,-3.31 2.69,-6 6,-6z" />
+
+    <!-- Golden Clip -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M44,18h20c1.1,0 2,0.9 2,2v4c0,1.1 -0.9,2 -2,2h-20c-1.1,0 -2,-0.9 -2,-2v-4c0,-1.1 0.9,-2 2,-2z" />
+
+    <!-- Horizontal Student Registry Lines -->
+    <path
+        android:strokeColor="#CFD8DC"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M38,36h20" />
+    <path
+        android:strokeColor="#CFD8DC"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M38,48h20" />
+    <path
+        android:strokeColor="#CFD8DC"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M38,60h20" />
+    <path
+        android:strokeColor="#CFD8DC"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M38,72h20" />
+
+    <!-- Attendance Status Indicators -->
+    <!-- Row 1: Green Check -->
+    <path
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M66,35l2.5,2.5l5.5,-5.5" />
+
+    <!-- Row 2: Red Cross -->
+    <path
+        android:strokeColor="#F44336"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M66,45l6,6m0,-6l-6,6" />
+
+    <!-- Row 3: Green Check -->
+    <path
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M66,59l2.5,2.5l5.5,-5.5" />
+
+    <!-- Row 4: Green Check -->
+    <path
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M66,71l2.5,2.5l5.5,-5.5" />
+</vector>
